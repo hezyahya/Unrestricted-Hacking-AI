@@ -1,0 +1,11 @@
+# Phantom Agent — Python dependencies
+# Install: pip install -r requirements.txt
+
+# AI — OpenRouter (OpenAI-compatible client)
+openai>=1.30.0
+
+# E2B cloud sandbox
+e2b>=0.17.0
+
+# Environment variable loading
+python-dotenv>=1.0.0
